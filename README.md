@@ -141,6 +141,6 @@ For questions regarding the benchmark, please contact:
 
 Athira Asalatha Rajendran
 
-Email: *your-email*
+Email: *athira@taltech.ee*
 
 TalTech – Tallinn University of Technology
