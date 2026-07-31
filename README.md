@@ -1,2 +1,2 @@
-# Numeric_Evidence_Extraction
+# Numerical Evidence Extraction Benchmark
 Numeric Evidence Extraction from Scientific PDF
